@@ -38,3 +38,7 @@ trainer_two.use_potion()
 trainer_one.attack_other_trainer(trainer_two)
 trainer_two.switch_active_pokemon(0)
 trainer_two.switch_active_pokemon(1)
+```
+## Disclaimer
+
+Please note that the code is not optimized for a full-fledged game or application and serves as a basic example of a Pokemon battle simulation. Feel free to expand on this code and customize it to your needs.
